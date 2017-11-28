@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Network Neighbors
+Exec=gksudo -k -u root /home/cmn/nps/Q1/CS3023/NetNeighbors/Code/NetNeighbors.py -v wlp3s0
+Icon=/home/cmn/nps/Q1/CS3023/NetNeighbors/Ubuntu/network-icon.png
+Type=Application
+Categories=Network;
