@@ -1,6 +1,6 @@
 #
 # File: EntryBox.py
-# Author: Claes M Nyberg <pocpon@fuzzpoint.com>
+# Author: Claes M Nyberg <cmn@fuzzpoint.com>
 # Date: November 2016
 # Desc: Display messagebox with an entry field
 #
