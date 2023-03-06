@@ -8,7 +8,7 @@
 	A log file named netneighbors.log is also created in the same directory,
 	but it is appended for each run.
 
-	Author: Claes M Nyberg <pocpon@fuzzpoint.com>, November 2016
+	Author: Claes M Nyberg <claes.m.nyberg@fuzzpoint.com>, November 2016
 
 	-=[ Required Python libraries
 		pcapy
