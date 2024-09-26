@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Network Neighbors
+Exec=gksudo -k -u root <path>/NetNeighbors.py -v wlp3s0
+Icon=<path>/network-icon.png
+Type=Application
+Categories=Network;
